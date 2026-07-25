@@ -17,7 +17,8 @@ Global Superstore dataset — 25,035 orders across multiple regions and product 
 - Based on this, recommended capping discounts below the ~40% threshold and prioritizing Technology and Central-region inventory investment.
 
 ## Dashboard Preview
-<img width="1599" height="844" alt="Screenshot 2026-07-26 001915" src="https://github.com/user-attachments/assets/23bf7add-d2e3-4693-90dc-b65bfa16e7e0" />
+<img width="1606" height="838" alt="Screenshot 2026-07-26 002409" src="https://github.com/user-attachments/assets/00a1f475-f174-425f-90db-2d453bdb15d7" />
+
 <img width="1624" height="828" alt="Screenshot 2026-07-26 002002" src="https://github.com/user-attachments/assets/c108075d-70dd-472a-b007-79706b2a37f4" />
 
 
